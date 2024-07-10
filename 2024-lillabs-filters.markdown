@@ -18,4 +18,5 @@ Foo
 
 It seems likely that given the intent to buy 30 or more of these fans, we could obtain preferential pricing from the manufacturer. However, I am only including stated discounts given to everyone in this cost estimate.
 
-* 30x [MOOKA M01](https://mookashops.com/products/air-purifiers-for-bedroom-home-mooka-hepa-h13-filter-air-purifier-with-usb-cable-for-smokers-pollen-pets-dust-odors-in-office-car-300-sq-ft?variant=43184237936791) filters: $1,191.48. ($39.99/unit, 10% discount, 10.35% local sales tax rate.)
+* 30x [MOOKA M01](https://mookashops.com/products/air-purifiers-for-bedroom-home-mooka-hepa-h13-filter-air-purifier-with-usb-cable-for-smokers-pollen-pets-dust-odors-in-office-car-300-sq-ft?variant=43184237936791) filters: $1,191.48. ($39.99/unit, 10% discount, 10.35% local sales tax rate.) This number can, of course, scale up to meet any potential grant opportunities!
+* ...nothing else. This is extremely easy!
