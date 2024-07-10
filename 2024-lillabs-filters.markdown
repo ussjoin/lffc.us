@@ -12,7 +12,7 @@ I had intended to recommend the purchase of filters to build the [USB-powered Mi
 
 ## Targeting
 
-Foo
+TODO: An explanation of marketing plans (signs for lampposts and such around Othello / New Holly, explaining "smoke is dangerous, we will give you free filters to make your living spaces safe to live/sleep in, yes, even if you live in your car")
 
 ## Cost
 
