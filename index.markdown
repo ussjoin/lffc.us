@@ -16,11 +16,11 @@ I'm intending to build everything described here, but it's not done yet. Therefo
 
 The Little Free Failure of Capitalism (LFFC to its friends) contains the following components:
 * (Some) life necessities for the houseless population: socks, soap, period products for menstruators, etc.
-* Maps to nearby Free Pantries, Little Free Libraries, and similar resources
+* Maps to nearby Free Pantries and similar resources
 * Access to eBooks (via a provided Internet connection, for people with mobile devices)
 * Mobile device recharging
 * Soil/environment lead testing, and other hazard testing, thanks to our friends at [UW/Stanford LilLabs](https://www.lillabs.org/home)
-* Naloxone (for opioid overdose treatment)
+* Naloxone (for opioid overdose treatment), thanks to our friends at [DOH Overdose Education and Naloxone Distribution (OEND)](https://doh.wa.gov/you-and-your-family/drug-user-health/overdose-education-naloxone-distribution)
 * Free phone calls and voicemails (thanks to our friends at [Futel](https://futel.net/about/)), along with a directory of useful numbers (e.g., shelters for houseless and/or abused people)
 * Zines of potential interest
 * A Short Story Printer
