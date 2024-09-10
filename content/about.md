@@ -4,6 +4,8 @@ date = 2024-09-09T21:13:52-07:00
 draft = false
 +++
 
+## 7014 42nd Ave S, Seattle, WA 98118
+
 The Little Free Failure of Capitalism (LFFC) is a distribution point for necessities for anyone who needs or wants them. People suffering from houselessness or impoverishment may need things like soap, socks, wound care materials, and similar items. People who are, or who live around, people suffering from opioid addiction may need naloxone (Narcan). People of all stripes may want zines, art, native plant seeds, food plant seeds, or on-demand short stories. People with a need to use a phone, or who are curious what on earth a free public telephone there is doing in 2024 (it is actually a phone! It's just also an art project) may want to use the phone. All of these can be had at the LFFC.
 
 ## Layout and Current Stocks
