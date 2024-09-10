@@ -1,0 +1,4 @@
+baseURL = 'https://lffc.us/'
+languageCode = 'en-us'
+title = 'Little Free Failure of Capitalism'
+theme = 'hermit-v2'
