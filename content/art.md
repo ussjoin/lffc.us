@@ -4,7 +4,7 @@ date = 2024-09-09T21:15:02-07:00
 draft = false
 +++
 
-As part of the shenanigans in the [right-hand cabinet](/art), we're doing an ongoing Call for Art. Anyone is welcome to supply art of any kind. Here are the basics:
+As part of the shenanigans in the [right-hand cabinet](/about), we're doing an ongoing Call for Art. Anyone is welcome to supply art of any kind. Here are the basics:
 
 * Send your submissions to info@lffc.us.
 * Art will be printed on a 4x6 postcard. The back will be normal postcard things (a bit of information about LFFC, but more importantly, mailing address boxes and the like).
@@ -16,4 +16,4 @@ As part of the shenanigans in the [right-hand cabinet](/art), we're doing an ong
 
 By sending us a submission, you agree to the following:
 
-> Submitting a photo, painting, unhinged rant, or unlucky plant ("Art") to the LFFC Call for Art grants the LFFC a worldwide, paid-up, inalienable right to print the thing and hand it out, as well as use it for whatever we can be bothered to do with it. You can give it to other purposes, sell it, or whatever else, just don't pretend we can't also do it. If you threaten us with a lawsuit we will mock you. If you actually sue us we will mock you more. All memes are stolen, some are just more stolen than others.
+> By submitting a photo, painting, unhinged rant, unlucky plant, or beneficial insect ("Art") to `art@lffc.us`, you grant the LFFC a nonexclusive worldwide, paid-up, zero-royalty, inalienable, ineffable right to print the Art on one or more objects, to distribute the Art (for no cost, or in exchange for free-will donations) in digital or print form, to modify the Art for the purpose of adding identifying marks, and potentially to criticize the Art, along with anything else we can be bothered to do. You can do anything else with your Art that you wish, including sell it or license it to others; just don't pretend you didn't give us this license. If you threaten us with a lawsuit we will mock you. If you actually sue us we will mock you more. You know that all memes are stolen, some are just more stolen than others, and you recognize that while birds aren't real, neither are narwhals.
