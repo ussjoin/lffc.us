@@ -1,7 +1,7 @@
 ---
 title: "New Site"
 date: 2024-09-09T21:25:28-07:00
-draft: true
+draft: false
 toc: false
 images:
 tags: 

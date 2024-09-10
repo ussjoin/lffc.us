@@ -1,7 +1,7 @@
 +++
 title = 'Donate'
 date = 2024-09-09T21:14:59-07:00
-draft = true
+draft = false
 +++
 
 If you'd like to donate money to support LFFC, thank you! You are most welcome to use the form below, or [go directly to the donation form](https://donorbox.org/lffc-donations) on Donorbox. If you'd like to donate something else, please use the [suggestions page](/suggestions) to contact us.
