@@ -4,7 +4,13 @@ date = 2024-09-09T21:15:02-07:00
 draft = false
 +++
 
-As part of the shenanigans in the [right-hand cabinet](/about), we're doing an ongoing Call for Art. Anyone is welcome to supply art of any kind. Here are the basics:
+As part of the shenanigans in the [right-hand cabinet](/about), we're doing an ongoing Call for Art. Anyone is welcome to supply art of any kind. Roughly, do you want to make some kind of art to confuse, delight, or alarm people, and have it distributed on your behalf in south Seattle? Then we're your place.
+
+We plan to print a set of 25 Arts per month, and display them, one per approximate day, in the Art Gallery section of the right-hand cabinet. People will be invited to take Arts that inspire them. The Arts will be printed on postcards, and people are encouraged (but not required, how would we even do that?) to mail them to others. This will create an ever-changing "art gallery" experience for passers-by. (We'll even put the Arts in a frame!) We may also print additional copies for various purposes.
+
+As with everything LFFC, if this turns out to be a terrible idea we'll discontinue it, but we'll do it for at least a few months first to see how it goes.
+
+Here are the details:
 
 * Send your submissions to info@lffc.us.
 * Art will be printed on a 4x6 postcard. The back will be normal postcard things (a bit of information about LFFC, but more importantly, mailing address boxes and the like).
