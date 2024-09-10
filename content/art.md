@@ -15,8 +15,8 @@ Here are the details:
 * Send your submissions to info@lffc.us.
 * Your Art can be a photo, drawing, pithy quote, or anything else. We're not imposing form (other than how it's printed for LFFC distribution). Surprise us!
 * Art will be printed on a 4x6 postcard. The back will be normal postcard things (a bit of information about LFFC, but more importantly, mailing address boxes and the like).
-* Your art should contain an email address or URL so that people can get in touch with you.
-* Your art will be printed "full-bleed" (to the edge of the postcard); your file should be 6.16" wide, and 4.16" high (or the other way around). To allow for cutting errors, all critical things (like text) should be contained in the center 5.84" x 3.84". If you want a template, feel free to use [the Moo templates](https://support.moo.com/hc/en-us/articles/213487703-Postcard-templates-to-download).
+* Your art will be printed "full-bleed" (to the edge of the postcard); your file should be 6.16" wide, and 4.16" high (or the other way around). To allow for cutting errors, all critical things (like text) should be contained in the "safe zone," the center 5.84" x 3.84". If you want a template, feel free to use [the Moo templates](https://support.moo.com/hc/en-us/articles/213487703-Postcard-templates-to-download).
+* Your art should contain an email address or URL so that people can get in touch with you, within the "safe zone."
 * We have Adobe Illustrator, so you can send us `.ai` files, `.pdf` files, or (high-resolution) PNG or JPEG files.
 * Submissions are due by the 15th of the month for potential inclusion in the next month's gallery.
 * We may hold submissions and use them in subsequent months.
