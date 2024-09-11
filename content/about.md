@@ -54,6 +54,22 @@ Nothing yet! This will be dedicated to art and zines, but hasn't been completed 
 
 This is a phone (it's inside the birdhouse, which is a convenient rain shield). Press 1 for an outside line (to dial any number in North America for free). Press 0 to speak with an operator (one of Futel's mottos: "Operators are Sometimes Standing By"). Press 2 for voicemail; anyone can set up a free voice mail box, which others can leave messages at by dialing 503-468-1337 and following the prompts (they'll need your mailbox number). Other numbers lead to other interesting results! (There's a directory below the phone, most days.)
 
+## Coming Soon
+
+### Art Gallery
+
+Take a look at the [Call for Art](/art) to learn about the plans for a rotating art gallery in the right-hand cabinet, starting in October!
+
+## And More!
+
+This is what we're building out still; we don't have an ETA yet, but we're actively working on these.
+
+* Short Story Printer
+* Lead Testing Supplies
+* Plant Seeds (Native and not)
+* Mobile Device Recharging
+* eBook Distribution
+* Zines/Other Art/More!
 
 ## Thanks
 
