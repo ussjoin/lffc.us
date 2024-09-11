@@ -8,6 +8,12 @@ draft = false
 
 The Little Free Failure of Capitalism (LFFC) is a distribution point for necessities for anyone who needs or wants them. People suffering from houselessness or impoverishment may need things like soap, socks, wound care materials, and similar items. People who are, or who live around, people suffering from opioid addiction may need naloxone (Narcan). People of all stripes may want zines, art, native plant seeds, food plant seeds, or on-demand short stories. People with a need to use a phone, or who are curious what on earth a free public telephone there is doing in 2024 (it is actually a phone! It's just also an art project) may want to use the phone. All of these can be had at the LFFC.
 
+## A Note on What Gets Stocked
+
+At a high level, my goal for the left-hand cabinet is to provide necessities. As a corollary, I want not to duplicate other resources in the neighborhood. For instance, there are a couple of free pantries nearby (as well as a church that does semiweekly food box handouts), and I don't wish to steal their spotlight---food is, of course, absolutely critical. Accordingly, I'm not doing food here. Similarly, there's a (city-provided) needle/sharps collection box at Othello Park, so while that's another great service to provide, I'm not doing it at LFFC.
+
+Planned and hopefully on the LFFC very soon will be a map with pointers to other potentially-useful resources in South Seattle, including free pantries, free fridges, Little Free Libraries, and similar.
+
 ## Layout and Current Stocks
 
 ![LFFC Overview Photo](/images/lffc/LFFC-Overview.jpg)
