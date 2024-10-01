@@ -51,14 +51,17 @@ expiryDate = ["expiryDate"]
   # Categories are disabled by default.
   # category = "categories"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      [markup.goldmark.extensions.passthrough]
-        enable = true
-        [markup.goldmark.extensions.passthrough.delimiters]
-          block = [['\[', '\]'], ['$$', '$$']]
-          inline = [['\(', '\)']]
+# Needed to allow iframe embeds for Google Forms and DonorBox
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.goldmark.renderHooks.image]
+  enableDefault = true
+[markup.goldmark.extensions.passthrough]
+  enable = true
+  [markup.goldmark.extensions.passthrough.delimiters]
+    block = [['\[', '\]'], ['$$', '$$']]
+    inline = [['\(', '\)']]
 
 
 [params]
@@ -102,9 +105,7 @@ expiryDate = ["expiryDate"]
   #   name = "github"
   #   url = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
 
-# Needed to allow iframe embeds for Google Forms and DonorBox
-[markup.goldmark.renderer]
-  unsafe = true
+
 
 [menu]
 

@@ -16,13 +16,13 @@ Planned and hopefully on the LFFC very soon will be a map with pointers to other
 
 ## Layout and Current Stocks
 
-![LFFC Overview Photo](/images/lffc/LFFC-Overview.jpg)
+![LFFC Overview Photo](LFFC-Overview.jpg)
 
 Roughly, the left-hand cabinet is physical necessities, the right-hand cabinet is art and zines, and the center is naloxone (Narcan) and weird stuff.
 
 ### Left-Hand Cabinet
 
-![LFFC Overview Photo](/images/lffc/Left.jpg)
+![LFFC Overview Photo](Left.jpg)
 
 We have (and intend to keep in stock):
 * Wound Care Materials (gloves, Band-Aids, Combine Pads (dressings), coban)
