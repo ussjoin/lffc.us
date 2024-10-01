@@ -4,6 +4,11 @@ date = 2024-09-09T21:13:52-07:00
 draft = false
 +++
 
+* [A Note on What Gets Stocked](#a-note-on-what-gets-stocked)
+* [Current Stocking](#current-stocking)
+* [Photos](#photos)
+* [Thanks](#thanks)
+
 ## 7014 42nd Ave S, Seattle, WA 98118
 
 The Little Free Failure of Capitalism (LFFC) is a distribution point for necessities for anyone who needs or wants them. People suffering from houselessness or impoverishment may need things like soap, socks, wound care materials, and similar items. People who are, or who live around, people suffering from opioid addiction may need naloxone (Narcan). People of all stripes may want zines, art, native plant seeds, food plant seeds, or on-demand short stories. People with a need to use a phone, or who are curious what on earth a free public telephone there is doing in 2024 (it is actually a phone! It's just also an art project) may want to use the phone. All of these can be had at the LFFC.
@@ -14,7 +19,45 @@ At a high level, my goal for the left-hand cabinet is to provide necessities. As
 
 Planned and hopefully on the LFFC very soon will be a map with pointers to other potentially-useful resources in South Seattle, including free pantries, free fridges, Little Free Libraries, and similar.
 
-## Layout and Current Stocks
+## Current Stocking
+
+As of September 30, 2024:
+
+* Left-Hand Cabinet:
+  * Masks (top shelf): KF94 and N95 (Aura) masks.
+  * Condom / Lubricant Bin: Condoms (assorted brands, including [Skyn](https://skynfeel.com/) non-latex condoms!) and lubricant ([Slippery Stuff](https://wallace-ofarrell.com/) water-based taste-free lubricant in convenient single-use sachets)
+  * Wound Care: Gloves, CoBan (those elastic bandages that stick to themselves), Band-Aids, and combine ABD gauze pads.
+  * Socks (2 bins): Crew-length socks in two sizes. Each is in two colors, black and white.
+  * Pads (5 bins): Menstrual pads in five sizes/absorbencies. There's a chart on each bin showing the manufacturer-recommended panty size vs absorbency matrix to recommend one of the five. All have wings.
+  * Tampons: Tampax "regular" tampons, with cardboard applicators.
+  * Soap: 1oz bars of soap, individually wrapped.
+  * Sunscreen/Handwarmers: small tubes of sunscreen, and packs of Hothands handwarmers.
+  * Ibuprofen/Earplugs/Ponchos/Pencils: This is a bit of a random assortment, but they all fit together. Disposable ponchos, reusable silicone earplugs on a string, two-pill ibuprofen sachets, and sharpened pencils.
+  * Lead tests: currently empty (waiting on deliveries).
+* Center:
+  * Narcan/Naloxone: boxes of two nasal doses, along with instructions in six languages. They have some temperature requirements, so they're kept in a climate-controlled box.
+* Right:
+  * Art Gallery
+  * Zines: a fairly random assortment at the moment. Curation and coherence, along with a printed menu of what's in stock in a given week, are coming, but not done yet.
+* Right-Edge:
+  * [Phone](#phone)
+  
+There is also a comments ~box~ birdhouse, and provided comments paper (and pencils) so people can submit ideas and suggestions.
+
+## Thanks
+
+* Thanks to [Mask Bloc Seattle](https://linktr.ee/maskblocseattle) for hooking us up with masks to distribute.
+* Thanks to [Futel](https://futel.net/) for providing phone service.
+* Thanks to the [Washington State Department of Health, Overdose Education and Naloxone Distribution Program](https://doh.wa.gov/you-and-your-family/drug-user-health/overdose-education-naloxone-distribution) for providing naloxone (Narcan) to distribute.
+* Thanks to [King County Public Health](https://kingcounty.gov/en/dept/dph/health-safety/disease-illness/hiv-sti-hcv) and their HIV/STI/HCV program for the condoms and lubricants. (It turns out to be difficult to provide a variety of condoms, and in particular, a variety that includes non-latex condoms, unless you can purchase in pallet quantity; they do, and they are kind enough to let us distribute some!)
+* Thanks to the [Lil Lab Network](https://www.lillabs.org/home) and the University of Washington for providing lead testing kits to distribute.
+* Thanks to all the people who have written small notes of encouragement, sent emails to us, or shared information about what we're doing with people in need.
+
+## Photos
+
+(Note: the photos are all annoyingly big right now. This is a glitch of my making, and I'm working on it. Sorry.)
+
+Photos are current as of early September, 2024.
 
 ![LFFC Overview Photo](LFFC-Overview.jpg)
 
@@ -40,7 +83,7 @@ Coming soon:
 
 ### Central Tower
 
-![LFFC Overview Photo](/images/lffc/Center.jpg)
+![LFFC Center Console](Center.jpg)
 
 Currently, we have
 * Naloxone (Narcan), nasal spray, 2-dose packs, in a temperature-controlled storage unit
@@ -56,9 +99,9 @@ Nothing yet! This will be dedicated to art and zines, but hasn't been completed 
 
 ### Phone
 
-![Futel Box](/images/lffc/Futel-Box.jpg)
+![Futel Box](Futel-Box.jpg)
 
-This is a phone (it's inside the birdhouse, which is a convenient rain shield). Press 1 for an outside line (to dial any number in North America for free). Press 0 to speak with an operator (one of Futel's mottos: "Operators are Sometimes Standing By"). Press 2 for voicemail; anyone can set up a free voice mail box, which others can leave messages at by dialing 503-468-1337 and following the prompts (they'll need your mailbox number). Other numbers lead to other interesting results! (There's a directory below the phone, most days.)
+This is a phone (it's inside the birdhouse, which is a convenient rain shield). Press 1 for an outside line (to dial any number in North America for free). Press 0 to speak with an operator (one of Futel's mottos: "Operators are Sometimes Standing By"). Press 2 for voicemail; anyone can set up a free voice mail box, which others can leave messages at by dialing 503-468-1337 and following the prompts (they'll need your mailbox number). Other numbers lead to other interesting results! (There's a directory below the phone.)
 
 ## Coming Soon
 
@@ -77,11 +120,5 @@ This is what we're building out still; we don't have an ETA yet, but we're activ
 * eBook Distribution
 * Zines/Other Art/More!
 
-## Thanks
 
-* Thanks to [Mask Bloc Seattle](https://linktr.ee/maskblocseattle) for hooking us up with masks to distribute.
-* Thanks to [Futel](https://futel.net/) for providing phone service.
-* Thanks to the [Washington State Department of Health, Overdose Education and Naloxone Distribution Program](https://doh.wa.gov/you-and-your-family/drug-user-health/overdose-education-naloxone-distribution) for providing naloxone (Narcan) to distribute.
-* Thanks to the [Lil Lab Network](https://www.lillabs.org/home) and the University of Washington for providing lead testing kits to distribute.
-* Thanks to all the people who have written small notes of encouragement, sent emails to us, or shared information about what we're doing with people in need.
 
