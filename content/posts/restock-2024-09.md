@@ -41,6 +41,7 @@ This month, we distributed:
 * 10 doses of ibuprofen
 * 6 earplugs
 * 13 sets of handwarmers
+* 6 pencils
 * 17 bars of soap
 * 58 tampons
 * 26 menstrual pads
