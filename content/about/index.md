@@ -21,7 +21,7 @@ Planned and hopefully on the LFFC very soon will be a map with pointers to other
 
 ## Current Stocking
 
-As of September 30, 2024:
+As of October 10, 2024:
 
 * Left-Hand Cabinet:
   * Masks (top shelf): KF94 and N95 (Aura) masks.
@@ -32,12 +32,14 @@ As of September 30, 2024:
   * Tampons: Tampax "regular" tampons, with cardboard applicators.
   * Soap: 1oz bars of soap, individually wrapped.
   * Sunscreen/Handwarmers: small tubes of sunscreen, and packs of Hothands handwarmers.
-  * Ibuprofen/Earplugs/Ponchos/Pencils: This is a bit of a random assortment, but they all fit together. Disposable ponchos, reusable silicone earplugs on a string, two-pill ibuprofen sachets, and sharpened pencils.
+  * Ibuprofen/Earplugs/Ponchos/Pencils: This is a bit of a random assortment, but they all fit in the box well together. Disposable ponchos, reusable silicone earplugs on a string, two-pill ibuprofen sachets, and sharpened pencils.
   * Lead tests: currently empty (waiting on deliveries).
 * Center:
   * Narcan/Naloxone: boxes of two nasal doses, along with instructions in six languages. They have some temperature requirements, so they're kept in a climate-controlled box.
+  * [Batteries](/batteries): borrowable USB batteries (with integrated USB-C, Lightning, and MicroUSB cables) so people can *take power with them* instead of needing to hang out at the LFFC while charging.
+  * Charging: after discussions with some LFFC users, it turns out there's a use case of which I wasn't aware: "I'm not coming back to this area, but I need to get some juice in my phone so I can find my way home." Accordingly there's also a big USB charger with Lightning, USB-C, and MicroUSB cables, and it speaks all the Extremely Rapid Charging protocols (up to 100W per cable on both USB-C and Lightning charging).
 * Right:
-  * Art Gallery
+  * Art Gallery: a rotating selection of postcards to look at and, if people choose, take with them.
   * Zines: a fairly random assortment at the moment. Curation and coherence, along with a printed menu of what's in stock in a given week, are coming, but not done yet.
 * Right-Edge:
   * [Phone](#phone)
@@ -55,8 +57,6 @@ There is also a comments ~box~ birdhouse, and provided comments paper (and penci
 
 ## Photos
 
-(Note: the photos are all annoyingly big right now. This is a glitch of my making, and I'm working on it. Sorry.)
-
 Photos are current as of early September, 2024.
 
 ![LFFC Overview Photo](LFFC-Overview.jpg)
@@ -65,7 +65,7 @@ Roughly, the left-hand cabinet is physical necessities, the right-hand cabinet i
 
 ### Left-Hand Cabinet
 
-![LFFC Overview Photo](Left.jpg)
+![LFFC Left Cabinet](Left.jpg)
 
 We have (and intend to keep in stock):
 * Wound Care Materials (gloves, Band-Aids, Combine Pads (dressings), coban)
