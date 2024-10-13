@@ -39,10 +39,12 @@ As of October 10, 2024:
   * [Batteries](/batteries): borrowable USB batteries (with integrated USB-C, Lightning, and MicroUSB cables) so people can *take power with them* instead of needing to hang out at the LFFC while charging.
   * Charging: after discussions with some LFFC users, it turns out there's a use case of which I wasn't aware: "I'm not coming back to this area, but I need to get some juice in my phone so I can find my way home." Accordingly there's also a big USB charger with Lightning, USB-C, and MicroUSB cables, and it speaks all the Extremely Rapid Charging protocols (up to 100W per cable on both USB-C and Lightning charging).
 * Right:
+  * It's messy because a few modules are still being built, so the overall organization isn't great.
   * Art Gallery: a rotating selection of postcards to look at and, if people choose, take with them.
   * Zines: a fairly random assortment at the moment. Curation and coherence, along with a printed menu of what's in stock in a given week, are coming, but not done yet.
 * Right-Edge:
-  * [Phone](#phone)
+  * [Phone](#phone): This is a phone (it's inside a birdhouse, which is a convenient rain shield). Press 1 for an outside line (to dial any number in North America for free). Press 0 to speak with an operator (one of Futel's mottos: "Operators are Sometimes Standing By"). Press 2 for voicemail; anyone can set up a free voice mail box, which others can leave messages at by dialing 503-468-1337 and following the prompts (they'll need your mailbox number). Other numbers lead to other interesting results! (There's a directory below the phone.)
+  * There is also a sign speaking a bit about what is in the LFFC at the moment (changing as new things are added).
   
 There is also a comments ~box~ birdhouse, and provided comments paper (and pencils) so people can submit ideas and suggestions.
 
@@ -54,54 +56,6 @@ There is also a comments ~box~ birdhouse, and provided comments paper (and penci
 * Thanks to [King County Public Health](https://kingcounty.gov/en/dept/dph/health-safety/disease-illness/hiv-sti-hcv) and their HIV/STI/HCV program for the condoms and lubricants. (It turns out to be difficult to provide a variety of condoms, and in particular, a variety that includes non-latex condoms, unless you can purchase in pallet quantity; they do, and they are kind enough to let us distribute some!)
 * Thanks to the [Lil Lab Network](https://www.lillabs.org/home) and the University of Washington for providing lead testing kits to distribute.
 * Thanks to all the people who have written small notes of encouragement, sent emails to us, or shared information about what we're doing with people in need.
-
-## Photos
-
-Photos are current as of early September, 2024.
-
-![LFFC Overview Photo](LFFC-Overview.jpg)
-
-Roughly, the left-hand cabinet is physical necessities, the right-hand cabinet is art and zines, and the center is naloxone (Narcan) and weird stuff.
-
-### Left-Hand Cabinet
-
-![LFFC Left Cabinet](Left.jpg)
-
-We have (and intend to keep in stock):
-* Wound Care Materials (gloves, Band-Aids, Combine Pads (dressings), coban)
-* Condoms
-* Socks (two sizes, medium (shoe size men's 9-11) and large (shoe size men's 10-13))
-* Soap
-* Tampons
-* Pads (five size/absorbency combinations; there's a guide on each tub to recommend a number or numbers based on panty size and flow rate)
-* Sunscreen (summer) or hand warmers (winter)
-* Up top: masks (currently, both N95 and KF94 masks)
-
-Coming soon:
-* Seeds
-* Lead testing kits for both soil and objects (or paint)
-
-### Central Tower
-
-![LFFC Center Console](Center.jpg)
-
-Currently, we have
-* Naloxone (Narcan), nasal spray, 2-dose packs, in a temperature-controlled storage unit
-* Naloxone use instructions in English, Spanish, Chinese, Russian, Ukrainian, and Vietnamese (in the fridge)
-
-Coming soon, we will have
-* Short Story Dispenser
-* ...other art things as they are developed
-
-### Right-Hand Cabinet
-
-Nothing yet! This will be dedicated to art and zines, but hasn't been completed yet. Watch this space!
-
-### Phone
-
-![Futel Box](Futel-Box.jpg)
-
-This is a phone (it's inside the birdhouse, which is a convenient rain shield). Press 1 for an outside line (to dial any number in North America for free). Press 0 to speak with an operator (one of Futel's mottos: "Operators are Sometimes Standing By"). Press 2 for voicemail; anyone can set up a free voice mail box, which others can leave messages at by dialing 503-468-1337 and following the prompts (they'll need your mailbox number). Other numbers lead to other interesting results! (There's a directory below the phone.)
 
 ## Coming Soon
 
@@ -116,9 +70,17 @@ This is what we're building out still; we don't have an ETA yet, but we're activ
 * Short Story Printer
 * Lead Testing Supplies
 * Plant Seeds (Native and not)
-* Mobile Device Recharging
 * eBook Distribution
-* Zines/Other Art/More!
+* More!
 
+## Photos
 
+Photos are current as of mid-October, 2024.
 
+### Main
+
+![LFFC Overview Photo](LFFC-Overview.jpg)
+
+### Phone
+
+![Futel Box](Futel-Box.jpg)
