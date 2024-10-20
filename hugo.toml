@@ -12,6 +12,14 @@ theme = 'hermit-v2'
 #   taxonomy = ['html', 'rss']
 #   term = ['html', 'rss']
 
+[outputFormats]
+  [outputFormats.AtomXML]
+    baseName = 'atom'
+    isPlainText = false
+    mediaType = 'application/xml'
+    permalinkable = true
+    root = true
+
 # enableGitInfo = true
 
 pygmentsCodefences  = true
