@@ -141,3 +141,8 @@ expiryDate = ["expiryDate"]
     name = "Updates"
     url = "posts/"
     weight = 100
+  
+  [[menu.main]]
+    name = "Signs"
+    url = "signs/"
+    weight = 15
