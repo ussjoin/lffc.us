@@ -3,5 +3,5 @@
 	{{- with .OutputFormats.Get "RSS" }}
 	&#183; <a href="{{ "index.xml" | absLangURL }}" target="_blank" title="rss">{{- partial "svg.html" (dict "context" . "name" "rss") -}}</a>
 	{{- end -}}
-  &#183; <a href="/atom.xml" target="_blank" title="atom">{{- partial "svg.html" (dict "context" . "name" "rss") -}}</a>
+   <a href="/atom.xml" target="_blank" title="atom">{{- partial "svg.html" (dict "context" . "name" "rss") -}}</a>
 </p>
