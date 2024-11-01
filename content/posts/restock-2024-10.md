@@ -8,12 +8,12 @@ tags:
   - meta
 ---
 
-Welcome to the Restock!
+Welcome to the Restock! One new meta-item this month: you can now subscribe to this blog as [an email newsletter](https://buttondown.com/lffc) if you prefer. (We also now feature compliant [RSS](/index.xml) and [Atom](/atom.xml) feeds for the site.)
 
 
 ### Updates and Changes
 
-**Art**: we started putting artwork in the right-hand cabinet each day, along with zines of various sorts (ranging from LGBTQ rights to native plant gardening in Western Washington)!
+**Art**: we started putting artwork in the right-hand cabinet each day, along with zines of various sorts (ranging from LGBTQ rights to native plant gardening in Western Washington)! Want to add art to our rotating gallery? Check out our [Call for Art](/art)!
 
 **Lighting**: we got the lighting on each shelf online, as well as some colored lights at the edge of the roof, to make the whole thing both more accessible and less sketchy-looking at night. (I'm hoping to have the lights do fun things (like react to the doors opening) soon, but that part isn't done yet.) There's a new night photo on the [about](/about) page!
 
