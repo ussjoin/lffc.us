@@ -75,11 +75,15 @@ This is what we're building out still; we don't have an ETA yet, but we're activ
 
 ## Photos
 
-Photos are current as of mid-October, 2024.
+Photos are current as of late October, 2024.
 
 ### Main
 
 ![LFFC Overview Photo](LFFC-Overview.jpg)
+
+### Main
+
+![LFFC Night Photo](LFFC-Night.jpg)
 
 ### Phone
 
