@@ -33,11 +33,10 @@ As of October 10, 2024:
   * Soap: 1oz bars of soap, individually wrapped.
   * Sunscreen/Handwarmers: small tubes of sunscreen, and packs of Hothands handwarmers.
   * Ibuprofen/Earplugs/Ponchos/Pencils: This is a bit of a random assortment, but they all fit in the box well together. Disposable ponchos, reusable silicone earplugs on a string, two-pill ibuprofen sachets, and sharpened pencils.
-  * Lead tests: currently empty (waiting on deliveries).
+  * Lead tests: both soil and object lead tests, courtesy of UW / LilLabs.
 * Center:
   * Narcan/Naloxone: boxes of two nasal doses, along with instructions in six languages. They have some temperature requirements, so they're kept in a climate-controlled box.
-  * [Batteries](/batteries): borrowable USB batteries (with integrated USB-C, Lightning, and MicroUSB cables) so people can *take power with them* instead of needing to hang out at the LFFC while charging.
-  * Charging: after discussions with some LFFC users, it turns out there's a use case of which I wasn't aware: "I'm not coming back to this area, but I need to get some juice in my phone so I can find my way home." Accordingly there's also a big USB charger with Lightning, USB-C, and MicroUSB cables, and it speaks all the Extremely Rapid Charging protocols (up to 100W per cable on both USB-C and Lightning charging).
+  * Charging: A big USB charger with Lightning, USB-C, and MicroUSB cables, and it speaks all the Extremely Rapid Charging protocols (up to 100W per cable on both USB-C and Lightning charging).
 * Right:
   * It's messy because a few modules are still being built, so the overall organization isn't great.
   * Art Gallery: a rotating selection of postcards to look at and, if people choose, take with them.
@@ -59,16 +58,11 @@ There is also a comments ~box~ birdhouse, and provided comments paper (and penci
 
 ## Coming Soon
 
-### Art Gallery
-
-Take a look at the [Call for Art](/art) to learn about the plans for a rotating art gallery in the right-hand cabinet, starting in October!
-
-## And More!
+## More!
 
 This is what we're building out still; we don't have an ETA yet, but we're actively working on these.
 
 * Short Story Printer
-* Lead Testing Supplies
 * Plant Seeds (Native and not)
 * eBook Distribution
 * More!
