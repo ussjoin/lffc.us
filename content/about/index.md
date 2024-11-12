@@ -21,19 +21,21 @@ Planned and hopefully on the LFFC very soon will be a map with pointers to other
 
 ## Current Stocking
 
-As of October 10, 2024:
+As of November 10, 2024:
 
 * Left-Hand Cabinet:
   * Masks (top shelf): KF94 and N95 (Aura) masks.
-  * Condom / Lubricant Bin: Condoms (assorted brands, including [Skyn](https://skynfeel.com/) non-latex condoms!) and lubricant ([Slippery Stuff](https://wallace-ofarrell.com/) water-based taste-free lubricant in convenient single-use sachets)
-  * Wound Care: Gloves, CoBan (those elastic bandages that stick to themselves), Band-Aids, and combine ABD gauze pads.
-  * Socks (2 bins): Crew-length socks in two sizes. Each is in two colors, black and white.
-  * Pads (5 bins): Menstrual pads in five sizes/absorbencies. There's a chart on each bin showing the manufacturer-recommended panty size vs absorbency matrix to recommend one of the five. All have wings.
-  * Tampons: Tampax "regular" tampons, with cardboard applicators.
-  * Soap: 1oz bars of soap, individually wrapped.
-  * Sunscreen/Handwarmers: small tubes of sunscreen, and packs of Hothands handwarmers.
-  * Ibuprofen/Earplugs/Ponchos/Pencils: This is a bit of a random assortment, but they all fit in the box well together. Disposable ponchos, reusable silicone earplugs on a string, two-pill ibuprofen sachets, and sharpened pencils.
   * Lead tests: both soil and object lead tests, courtesy of UW / LilLabs.
+  * Condom / Lubricant Bin: Condoms (assorted brands, including [Skyn](https://skynfeel.com/) non-latex condoms!) and lubricant ([Slippery Stuff](https://wallace-ofarrell.com/) water-based taste-free lubricant in convenient single-use sachets)
+  * Soap: 1oz bars of soap, individually wrapped.
+  * Ibuprofen/Earplugs/Ponchos/Pencils: This is a bit of a random assortment, but they all fit in the box well together. Disposable ponchos, reusable silicone earplugs on a string, two-pill ibuprofen sachets, and sharpened pencils.
+  * Socks (1 shelf): Crew-length thermal socks.
+  * Toothbrushes/Toothpaste: what it says on the tin.
+  * Sunscreen/Handwarmers: small tubes of sunscreen, and packs of Hothands handwarmers.
+  * Gloves: thin but warm gloves.
+  * Pads (3 bins): Menstrual pads in five sizes/absorbencies. There's a chart on each bin showing the manufacturer-recommended panty size vs absorbency matrix to recommend one of the five. All have wings.
+  * Tampons: Tampax "regular" tampons, with cardboard applicators.
+  * Wound Care: Gloves, CoBan (those elastic bandages that stick to themselves), Band-Aids, and combine ABD gauze pads.
 * Center:
   * Narcan/Naloxone: boxes of two nasal doses, along with instructions in six languages. They have some temperature requirements, so they're kept in a climate-controlled box.
   * Charging: A big USB charger with Lightning, USB-C, and MicroUSB cables, and it speaks all the Extremely Rapid Charging protocols (up to 100W per cable on both USB-C and Lightning charging).
@@ -69,7 +71,7 @@ This is what we're building out still; we don't have an ETA yet, but we're activ
 
 ## Photos
 
-Photos are current as of late October, 2024.
+Photos are current as of early November, 2024.
 
 ### Main
 
