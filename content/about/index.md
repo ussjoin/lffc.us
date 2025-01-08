@@ -77,10 +77,6 @@ Photos are current as of early November, 2024.
 
 ![LFFC Overview Photo](LFFC-Overview.jpg)
 
-### Main
-
-![LFFC Night Photo](LFFC-Night.jpg)
-
 ### Phone
 
 ![Futel Box](Futel-Box.jpg)
