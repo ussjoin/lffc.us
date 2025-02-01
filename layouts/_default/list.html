@@ -25,11 +25,11 @@
 			</ul>
 		</div>
 		{{- end -}}
+    <p>Want to subscribe to updates via email? Go to <strong><a href="https://buttondown.com/lffc">https://buttondown.com/lffc</a></strong> to sign up for our mailing list!</p><br />
 		{{- range .Data.Pages.GroupByDate "2006" }}
 		{{ $pages := len (.Pages) }}
 		{{ $pages_pin := len ( where .Pages ".Params.pin" "eq" true) }}
 		{{- if gt $pages $pages_pin -}}
-    <p>Want to subscribe to updates via email? Go to <strong><a href="https://buttondown.com/lffc">https://buttondown.com/lffc</a></strong> to sign up for our mailing list!</p><br />
 		<div class="posts-group">
 			<div class="post-year" id="{{ .Key }}">{{ .Key }}</div>
 			<ul class="posts-list">
