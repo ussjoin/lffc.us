@@ -48,7 +48,7 @@ This month, we distributed:
 * 55 lead tests (10 object, 45 soil)
 * 26 boxes (52 doses) of naloxone--**and one confirmed overdose reversal from naloxone picked up at LFFC**, which was wonderful to hear about.
 
-Our [COGGA](https://en.wikipedia.org/wiki/Cost_of_goods_sold) for this month is $1294.66, not including naloxone, condoms, lubricants, or lead tests (all of which are provided by outside groups at no cost to us).
+Our [COGGA](https://en.wikipedia.org/wiki/Cost_of_goods_sold) for this month is $1170.98, not including naloxone, condoms, lubricants, or lead tests (all of which are provided by outside groups at no cost to us).
 
 We received two donations this month from [Harley LaRoux](https://www.harleylaroux.com/) and Andrew Smart. Thank you so much for your generosity!
 
