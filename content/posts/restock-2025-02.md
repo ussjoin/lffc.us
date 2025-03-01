@@ -14,6 +14,8 @@ Welcome to the Restock!
 
 Zines! I've finally installed a much more substantial zine rack and started stocking it with useful tomes, including Spencer Sunshine's [40 Ways to Fight Fascists](https://spencersunshine.com/2020/08/27/fortyways/) and some useful things from [Crimethinc](https://crimethinc.com/zines), along with (for four months now) the updated-quarterly publications on shelter, food resources, and other key information from [Crisis Connections](https://www.crisisconnections.org/about/publications-copy-2/#emergency-service-brochures). The latter aren't taken every day, but I do need to reprint them from time to time, so I hope that people are finding them valuable.
 
+If you have suggestions for zines (either that are available for bulk very-low-cost purchase, or (preferably) that I can print myself), please send them in! Contact information is at the bottom of the post. People have occasionally left zines at LFFC for sharing, which I adore. (I know [Sabotage! Noise!](https://www.instagram.com/sabotagenoiseproductions/) often makes its way to LFFC, for instance.) Hopefully the new, larger and more organized, zine rack will encourage such behavior.
+
 Art will also be restarting in March, with a new postcard printing, and an exciting special exhibition from a new-to-LFFC artist that I'm delighted about. More news and perhaps some photos in next month's Restock.
 
 This month we bid farewell to our inaugural Extremely Giant Pile of Socks, having now distributed all 720 pairs. Worry not, however: we already have 840 more pairs on hand.
