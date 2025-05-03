@@ -45,7 +45,7 @@ This month, we distributed:
 * 49 pencils
 * 46 bars of soap
 * 147 toothbrushes
-* 94 tubes of toothpaste
+* 94 tubes of toothpaste 
 * 90 tampons
 * 46 menstrual pads (across all sizes)
 * 175 condoms, and 169 lubricant packets
