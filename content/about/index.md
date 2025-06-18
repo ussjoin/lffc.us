@@ -21,30 +21,28 @@ Planned and hopefully on the LFFC very soon will be a map with pointers to other
 
 ## Current Stocking
 
-As of November 10, 2024:
+As of June 18, 2025:
 
 * Left-Hand Cabinet:
   * Masks (top shelf): KF94 and N95 (Aura) masks.
-  * Lead tests: both soil and object lead tests, courtesy of UW / LilLabs.
-  * Condom / Lubricant Bin: Condoms (assorted brands, including [Skyn](https://skynfeel.com/) non-latex condoms!) and lubricant ([Slippery Stuff](https://wallace-ofarrell.com/) water-based taste-free lubricant in convenient single-use sachets)
+  * Condom / Lubricant Bin: Condoms (assorted brands, including [Skyn](https://skynfeel.com/) non-latex condoms!), [internal/female condoms](https://fc2condoms.com/),  and lubricant ([Slippery Stuff](https://wallace-ofarrell.com/) water-based taste-free lubricant in convenient single-use sachets)
   * Soap: 1oz bars of soap, individually wrapped.
-  * Ibuprofen/Earplugs/Ponchos/Pencils: This is a bit of a random assortment, but they all fit in the box well together. Disposable ponchos, reusable silicone earplugs on a string, two-pill ibuprofen sachets, and sharpened pencils.
+  * Sunscreen: small sachets of 30spf sunscreen.
+  * Ibuprofen/Earplugs/Pencils: This is a bit of a random assortment, but they all fit in the box well together. Reusable silicone earplugs on a string, two-pill ibuprofen sachets, and sharpened pencils.
   * Socks (1 shelf): Crew-length thermal socks.
   * Toothbrushes/Toothpaste: what it says on the tin.
-  * Sunscreen/Handwarmers: small tubes of sunscreen, and packs of Hothands handwarmers.
-  * Gloves: thin but warm gloves.
   * Pads (3 bins): Menstrual pads in five sizes/absorbencies. There's a chart on each bin showing the manufacturer-recommended panty size vs absorbency matrix to recommend one of the five. All have wings.
   * Tampons: Tampax "regular" tampons, with cardboard applicators.
-  * Wound Care: Gloves, CoBan (those elastic bandages that stick to themselves), Band-Aids, and combine ABD gauze pads.
+  * Nitrile gloves: what it says on the tin.
+  * Wound Care: CoBan (those elastic bandages that stick to themselves), Band-Aids, Vaseline, non-adherent gauze pads, and combine ABD gauze pads.
+  * Ponchos: disposable ponchos, useful for keeping the rain out/off.
 * Center:
   * Narcan/Naloxone: boxes of two nasal doses, along with instructions in six languages. They have some temperature requirements, so they're kept in a climate-controlled box.
-  * Charging: A big USB charger with Lightning, USB-C, and MicroUSB cables, and it speaks all the Extremely Rapid Charging protocols (up to 100W per cable on both USB-C and Lightning charging).
 * Right:
   * It's messy because a few modules are still being built, so the overall organization isn't great.
-  * Art Gallery: a rotating selection of postcards to look at and, if people choose, take with them.
-  * Zines: a fairly random assortment at the moment. Curation and coherence, along with a printed menu of what's in stock in a given week, are coming, but not done yet.
+  * Zines: a fun assortment ranging, currently, from antifascist HOWTO guides to information on contraception and abortion.
 * Right-Edge:
-  * [Phone](#phone): This is a phone (it's inside a birdhouse, which is a convenient rain shield). Press 1 for an outside line (to dial any number in North America for free). Press 0 to speak with an operator (one of Futel's mottos: "Operators are Sometimes Standing By"). Press 2 for voicemail; anyone can set up a free voice mail box, which others can leave messages at by dialing 503-468-1337 and following the prompts (they'll need your mailbox number). Other numbers lead to other interesting results! (There's a directory below the phone.)
+  * [Phone](#phone): This is a phone (it's inside a birdhouse, which is a convenient rain shield). You can dial any number in North America for free. Press 0 to speak with an operator (one of Futel's mottos: "Operators are Sometimes Standing By"). Press # for the menu system, then press 2 for voicemail; anyone can set up a free voice mail box, which others can leave messages at by dialing 503-468-1337 and following the prompts (they'll need your mailbox number). Other numbers lead to other interesting results! (There's a directory below the phone.)
   * There is also a sign speaking a bit about what is in the LFFC at the moment (changing as new things are added).
   
 There is also a comments ~box~ birdhouse, and provided comments paper (and pencils) so people can submit ideas and suggestions.
