@@ -32,7 +32,7 @@ This month, we distributed:
 * 62 pairs of earplugs
 * 58 ponchos
 * 37 pencils
-* 28 bars of soap (yes, all three of those really were 55, random numbers are random)
+* 28 bars of soap
 * 134 toothbrushes
 * 71 tubes of toothpaste 
 * 119 tampons

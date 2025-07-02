@@ -6,6 +6,11 @@ draft = false
 
 As part of the shenanigans in the [right-hand cabinet](/about), we're doing an ongoing Call for Art. Anyone is welcome to supply art of any kind. Roughly, do you want to make some kind of art to confuse, delight, or alarm people, and have it distributed on your behalf in south Seattle? Then we're your place.
 
+## Stickers and Small Arts
+
+Have stickers or tiny arts and want to share them? There are 48 small drawers on the bottom of the right-hand LFFC cabinet to share such things!
+
+
 We plan to print a set of 25 Arts per month, and display them, one per approximate day, in the Art Gallery section of the right-hand cabinet. People will be invited to take Arts that inspire them. The Arts will be printed on postcards, and people are encouraged (but not required, how would we even do that?) to mail them to others. This will create an ever-changing "art gallery" experience for passers-by. (We'll even put the Arts in a frame!) We may also print additional copies for various purposes.
 
 As with everything LFFC, if this turns out to be a terrible idea we'll discontinue it, but we'll do it for at least a few months first to see how it goes.
