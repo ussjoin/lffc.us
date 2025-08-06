@@ -69,7 +69,7 @@ This is what we're building out still; we don't have an ETA yet, but we're activ
 
 ## Photos
 
-Photos are current as of early November, 2024.
+Photos are current as of early August, 2025.
 
 ### Main
 
