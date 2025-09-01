@@ -11,7 +11,7 @@ draft = false
 
 ## 7014 42nd Ave S, Seattle, WA 98118
 
-The Little Free Failure of Capitalism (LFFC) is a distribution point for necessities for anyone who needs or wants them. People suffering from houselessness or impoverishment may need things like soap, socks, wound care materials, and similar items. People who are, or who live around, people suffering from opioid addiction may need naloxone (Narcan). People of all stripes may want zines, art, native plant seeds, food plant seeds, or on-demand short stories. People with a need to use a phone, or who are curious what on earth a free public telephone there is doing in 2024 (it is actually a phone! It's just also an art project) may want to use the phone. All of these can be had at the LFFC.
+The Little Free Failure of Capitalism (LFFC) is a distribution point for necessities for anyone who needs or wants them. People suffering from houselessness or impoverishment may need things like soap, socks, wound care materials, and similar items. People who are, or who live around, people suffering from opioid addiction may need naloxone (Narcan). People of all stripes may want zines, art, native plant seeds, food plant seeds, or on-demand short stories. People with a need to use a phone, or who are curious what on earth a free public telephone there is doing in 2025 (it is actually a phone! It's just also an art project) may want to use the phone. All of these can be had at the LFFC.
 
 ## A Note on What Gets Stocked
 
@@ -21,29 +21,28 @@ Planned and hopefully on the LFFC very soon will be a map with pointers to other
 
 ## Current Stocking
 
-As of June 18, 2025:
+As of August 31, 2025:
 
-* Left-Hand Cabinet:
-  * Masks (top shelf): KF94 and N95 (Aura) masks.
-  * Condom / Lubricant Bin: Condoms (assorted brands, including [Skyn](https://skynfeel.com/) non-latex condoms!), [internal/female condoms](https://fc2condoms.com/),  and lubricant ([Slippery Stuff](https://wallace-ofarrell.com/) water-based taste-free lubricant in convenient single-use sachets)
-  * Soap: 1oz bars of soap, individually wrapped.
-  * Sunscreen: small sachets of 30spf sunscreen.
-  * Ibuprofen/Earplugs/Pencils: This is a bit of a random assortment, but they all fit in the box well together. Reusable silicone earplugs on a string, two-pill ibuprofen sachets, and sharpened pencils.
-  * Socks (1 shelf): Crew-length thermal socks.
-  * Toothbrushes/Toothpaste: what it says on the tin.
+* Supplies:
+  * Narcan/Naloxone: boxes of two nasal doses, along with instructions in six languages. They have some temperature requirements, so they're kept in a climate-controlled box.
+  * Masks: KF94 and N95 (Aura) masks.
+  * Socks: Crew-length thermal socks.
+  * Nitrile gloves: what it says on the tin. In bundles of three (two inside one), to keep two very clean even if they fall out of a pocket.
   * Pads (3 bins): Menstrual pads in five sizes/absorbencies. There's a chart on each bin showing the manufacturer-recommended panty size vs absorbency matrix to recommend one of the five. All have wings.
   * Tampons: Tampax "regular" tampons, with cardboard applicators.
-  * Nitrile gloves: what it says on the tin.
-  * Wound Care: CoBan (those elastic bandages that stick to themselves), Band-Aids, Vaseline, non-adherent gauze pads, and combine ABD gauze pads.
-  * Ponchos: disposable ponchos, useful for keeping the rain out/off.
-* Center:
-  * Narcan/Naloxone: boxes of two nasal doses, along with instructions in six languages. They have some temperature requirements, so they're kept in a climate-controlled box.
-* Right:
-  * It's messy because a few modules are still being built, so the overall organization isn't great.
-  * Zines: a fun assortment ranging, currently, from antifascist HOWTO guides to information on contraception and abortion.
-* Right-Edge:
+  * Toothbrushes/Toothpaste: what it says on the tin.
+  * Condom / Lubricant Bin: Condoms (assorted brands, including [Skyn](https://skynfeel.com/) non-latex condoms!), [internal/female condoms](https://fc2condoms.com/),  and lubricant ([Slippery Stuff](https://wallace-ofarrell.com/) water-based taste-free lubricant in convenient single-use sachets).
+  * Combine (ABD) pads, Band-Aids, and Non-Adherent Pads: different solutions to cover and protect wounds. (Combine pads have waterproof backs that can't be oozed through, sort of like giant non-adhesive Band-Aids; non-adherent pads, as the name suggests, won't adhere to wounds as they heal, so they can be used for dressings that need to be changed without re-injuring the wound.)
+  * CoBan: this is short for COherent BANdages. They're those self-adhesive elastic wraps you often get, for instance, after donating blood. We distribute 3"-wide ones to help hold on complex wound dressings.
+  * Vaseline: single-use sachets to help keep wounds moist to promote healing.
+  * Soap: small bars of soap.
+  * Rain ponchos: disposable rain ponchos.
+  * Ibuprofen, sunscreen, and earplugs: a drawer full of small items that fit in the box together.
+  * Pencils and comment sheets: pencils which can be taken, and optional comment cards for people who want to leave a comment or suggestion in the birdhouse to the left.
+* Right Edge:
   * [Phone](#phone): This is a phone (it's inside a birdhouse, which is a convenient rain shield). You can dial any number in North America for free. Press 0 to speak with an operator (one of Futel's mottos: "Operators are Sometimes Standing By"). Press # for the menu system, then press 2 for voicemail; anyone can set up a free voice mail box, which others can leave messages at by dialing 503-468-1337 and following the prompts (they'll need your mailbox number). Other numbers lead to other interesting results! (There's a directory below the phone.)
   * There is also a sign speaking a bit about what is in the LFFC at the moment (changing as new things are added).
+  * WiFi: We have free WiFi, courtesy of our friends at [Seattle Community Network](https://seattlecommunitynetwork.org/).
   
 There is also a comments ~box~ birdhouse, and provided comments paper (and pencils) so people can submit ideas and suggestions.
 
@@ -60,7 +59,7 @@ There is also a comments ~box~ birdhouse, and provided comments paper (and penci
 
 ## More!
 
-This is what we're building out still; we don't have an ETA yet, but we're actively working on these.
+This is what we're building out still; we don't have an ETA yet, but we're working on these.
 
 * Short Story Printer
 * Plant Seeds (Native and not)
@@ -69,7 +68,7 @@ This is what we're building out still; we don't have an ETA yet, but we're activ
 
 ## Photos
 
-Photos are current as of early August, 2025.
+Photos are current as of late August, 2025, after our rebuild! The empty space above the drawers will be used for zines and art; organization is coming soon.
 
 ### Main
 
