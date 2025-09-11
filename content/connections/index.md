@@ -6,7 +6,7 @@ draft = false
 
 ## What?
 
-A Connections node is a small waterproof box with a couple of cables running to it. It provides landline phone service with an attached phone, courtesy of [Futel](https://futel.net), and free WiFi, courtesy of [Seattle Community Network](https://seattlecommunitynetwork.org/). Want one for your site? Email <connections@lffc.us>!
+A Connections node is a small waterproof box with a couple of cables running to it. It provides free landline phone service with an attached phone, courtesy of [Futel](https://futel.net), and free WiFi, courtesy of [Seattle Community Network](https://seattlecommunitynetwork.org/). Want one for your site? Email <connections@lffc.us>!
 
 ## Why?
 
@@ -21,6 +21,9 @@ Of course, Futel and SCN are a perfect pair of connectivity options for lots of 
 ## Photos
 
 ### Dunlap Seattle Community Fridge
+
+* Address: 48th Ave S & S Thistle St, Seattle WA 98118 (in alley)
+* Go-live date: August 29, 2025
 
 ![Dunlap Overview Photo](Dunlap-Overview.jpg)
 ![Dunlap Phone Photo](Dunlap-Phone.jpg)
