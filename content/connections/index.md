@@ -6,19 +6,19 @@ draft = false
 
 ## What?
 
-A Connections node is a small waterproof box with a couple of cables running to it. It provides free landline phone service with an attached phone, courtesy of [Futel](https://futel.net), and free WiFi, courtesy of [Seattle Community Network](https://seattlecommunitynetwork.org/). Want one for your site? Email <connections@lffc.us>!
+A Connections node is a small waterproof box with a couple of cables running to it. It provides free landline phone service with an attached phone, courtesy of [Futel](https://futel.net), and free WiFi. Want one for your site? Email <connections@lffc.us>!
 
 ## Why?
 
-LFFC has had a [Futel](https://futel.net) phone since day one. We're proud to be the first Futel node in Seattle, and we've been overjoyed to see so many people using it to contact friends, relatives, and support systems (shelters, food, medical providers, etc.).
+LFFC has had a [Futel](https://futel.net) phone since day one. We're proud to be the first Futel node in Seattle, and we've been overjoyed to see so many people using it to contact friends, relatives, and support systems (shelters, food, medical providers, etc.). In May 2025, a written suggestion came in to LFFC, asking if we could provide WiFi. We immediately wanted to; we're tech people, after all, and we know how to provide guest wifi without having people mess with our other computers, and without risking copyright strikes from our ISP if people do naughty things. We wanted to make that easy for others, too, and with our friends at Northwestern Telephone & Telegraph (NT&T), we're able to provide a WiFi connection that doesn't touch your Internet or mess with your devices, along with a landline phone, anywhere in the city!
 
-In May 2025, a written suggestion came in, asking if we could provide WiFi. We immediately wanted to; we're tech people, after all. That said, providing free wifi at a residence is a challenge; most ISPs prohibit sharing your WiFi (so they can sell to more people, obviously), but of more concern is the (arguably human rights-violating, but let's not get into that) [six strikes policy](https://en.wikipedia.org/wiki/Copyright_Alert_System) in common usage in the US (and, despite what Wikipedia suggests, still very much in force in 2025). The upshot of this is that if anyone were to use our WiFi to download something that has **any allegation** of copyright against it, **whether or not** fair use applies, and indeed **whether or not** it was even correctly identified as infringing, our (home) Internet would be disconnected, with no functional right of appeal (certainly not one involving an actual courtroom or evidence, as Wikipedia makes clear).
+While LFFC was the first installed site, with WiFi coming online in July 2025, we've now expanded to Seattle Community Fridge sites in Dunlap and Cherry Hill, and we're looking forward to expanding elsewhere soon!
 
-Obviously this isn't going to work. Thankfully, another group in Seattle had a better option. [Seattle Community Network](https://seattlecommunitynetwork.org/) (SCN) provides free cellular data and/or WiFi to areas all over Seattle and Tacoma, including several Tiny Home Villages. They were willing to work with us to provide WiFi at LFFC, with their status as an Internet Service Provider getting them out of the kangaroo court six strikes system. As of August 5, 2025, we've now set up their free WiFi at LFFC, and we couldn't be more delighted!
+### Technical Details
 
-Of course, Futel and SCN are a perfect pair of connectivity options for lots of sites around Seattle, not just LFFC. In August, we installed our first Connections node at one of the [Seattle Community Fridge](https://seattlecommunityfridge.org/) sites, and we hope to expand to the other seven SCF sites in the next few months!
+We use routers that make [Wireguard](https://en.wikipedia.org/wiki/WireGuard) connections to NT&T and route all guest wifi traffic over that. Our phones use an [ATA](https://en.wikipedia.org/wiki/Analog_telephone_adapter) to talk to Futel's systems, and the same router provides connectivity to them as well as a small computer for maintenance. The underlying traffic runs over your Internet connection, but from the perspective of a user or a server on the Internet, people on the WiFi are "at" NT&T, not your site. All the hardware is locked in a small waterproof box, and the phone lives in a birdhouse to keep the rain off. This has worked well for fourteen months at LFFC, and is going great so far at our newer locations!
 
-## Photos
+## Sites
 
 ### Dunlap Seattle Community Fridge
 
@@ -27,3 +27,8 @@ Of course, Futel and SCN are a perfect pair of connectivity options for lots of 
 
 ![Dunlap Overview Photo](Dunlap-Overview.jpg)
 ![Dunlap Phone Photo](Dunlap-Phone.jpg)
+
+### Estelita's Library / Seattle Community Fridge
+
+* Address: 241 Martin Luther King Jr Way S, Seattle, WA 98144
+* Go-live date: October 6, 2025
