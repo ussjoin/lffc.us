@@ -8,6 +8,11 @@ draft = false
 
 A Connections node is a small waterproof box with a couple of cables running to it. It provides free landline phone service with an attached phone, courtesy of [Futel](https://futel.net), and free WiFi. Want one for your site? Email <connections@lffc.us>!
 
+I made a [short pitch video](https://www.youtube.com/watch?v=2W2gnzSKg9c) on Connections targeted toward potential site hosts, which may help explain it:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2W2gnzSKg9c?si=sKqjXOEFVrIRwrHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Why?
 
 LFFC has had a [Futel](https://futel.net) phone since day one. We're proud to be the first Futel node in Seattle, and we've been overjoyed to see so many people using it to contact friends, relatives, and support systems (shelters, food, medical providers, etc.). In May 2025, a written suggestion came in to LFFC, asking if we could provide WiFi. We immediately wanted to; we're tech people, after all, and we know how to provide guest wifi without having people mess with our other computers, and without risking copyright strikes from our ISP if people do naughty things. We wanted to make that easy for others, too, and with our friends at Northwestern Telephone & Telegraph (NT&T), we're able to provide a WiFi connection that doesn't touch your Internet or mess with your devices, along with a landline phone, anywhere in the city!
