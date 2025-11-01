@@ -21,12 +21,12 @@ Planned and hopefully on the LFFC very soon will be a map with pointers to other
 
 ## Current Stocking
 
-As of August 31, 2025:
+As of October 31, 2025:
 
 * Supplies:
-  * Narcan/Naloxone: boxes of two nasal doses, along with instructions in six languages. They have some temperature requirements, so they're kept in a climate-controlled box.
+  * Narcan/Naloxone: boxes of two nasal doses, and tubes with two injectable doses.
   * Masks: KF94 and N95 (Aura) masks.
-  * Socks: Crew-length thermal socks.
+  * Socks: Crew-length wool-blend thermal-weight socks.
   * Nitrile gloves: what it says on the tin. In bundles of three (two inside one), to keep two very clean even if they fall out of a pocket.
   * Pads (3 bins): Menstrual pads in five sizes/absorbencies. There's a chart on each bin showing the manufacturer-recommended panty size vs absorbency matrix to recommend one of the five. All have wings.
   * Tampons: Tampax "regular" tampons, with cardboard applicators.
@@ -38,11 +38,15 @@ As of August 31, 2025:
   * Soap: small bars of soap.
   * Rain ponchos: disposable rain ponchos.
   * Ibuprofen, sunscreen, and earplugs: a drawer full of small items that fit in the box together.
+  * Hand sanitizer: in small sachets.
+  * Razors and shaving gel.
   * Pencils and comment sheets: pencils which can be taken, and optional comment cards for people who want to leave a comment or suggestion in the birdhouse to the left.
+  * Paper bags: to help contain things, as we give away a lot of small, single-use items that are easy to drop accidentally.
+  * In winter: warm (wool-blend) hats and gloves, and pairs of chemical (single-use, disposable) handwarmers.
 * Right Edge:
   * [Phone](#phone): This is a phone (it's inside a birdhouse, which is a convenient rain shield). You can dial any number in North America for free. Press 0 to speak with an operator (one of Futel's mottos: "Operators are Sometimes Standing By"). Press # for the menu system, then press 2 for voicemail; anyone can set up a free voice mail box, which others can leave messages at by dialing 503-468-1337 and following the prompts (they'll need your mailbox number). Other numbers lead to other interesting results! (There's a directory below the phone.)
   * There is also a sign speaking a bit about what is in the LFFC at the moment (changing as new things are added).
-  * WiFi: We have free WiFi, courtesy of our friends at [Seattle Community Network](https://seattlecommunitynetwork.org/).
+  * WiFi: We have free WiFi, courtesy of our friends at [ShadyTel](https://shady.tel/). The phone + WiFi combination has been so popular that we've modularized it as the [Connections](/connections) project and started installing it at other sites.
   
 There is also a comments ~box~ birdhouse, and provided comments paper (and pencils) so people can submit ideas and suggestions.
 
@@ -52,7 +56,6 @@ There is also a comments ~box~ birdhouse, and provided comments paper (and penci
 * Thanks to [Futel](https://futel.net/) for providing phone service.
 * Thanks to the [Washington State Department of Health, Overdose Education and Naloxone Distribution Program](https://doh.wa.gov/you-and-your-family/drug-user-health/overdose-education-naloxone-distribution) for providing naloxone (Narcan) to distribute.
 * Thanks to [King County Public Health](https://kingcounty.gov/en/dept/dph/health-safety/disease-illness/hiv-sti-hcv) and their HIV/STI/HCV program for the condoms and lubricants. (It turns out to be difficult to provide a variety of condoms, and in particular, a variety that includes non-latex condoms, unless you can purchase in pallet quantity; they do, and they are kind enough to let us distribute some!)
-* Thanks to the [Lil Lab Network](https://www.lillabs.org/home) and the University of Washington for providing lead testing kits to distribute.
 * Thanks to all the people who have written small notes of encouragement, sent emails to us, or shared information about what we're doing with people in need.
 
 ## Coming Soon
@@ -68,7 +71,7 @@ This is what we're building out still; we don't have an ETA yet, but we're worki
 
 ## Photos
 
-Photos are current as of late August, 2025, after our rebuild! The empty space above the drawers will be used for zines and art; organization is coming soon.
+Photos are current as of late October, 2025, after our rebuild!
 
 ### Main
 
