@@ -53,7 +53,7 @@ This month, we distributed:
 
 Our [COGGA](https://en.wikipedia.org/wiki/Cost_of_goods_sold) for this month is $1200.69, not including naloxone, condoms, or lubricants (all of which are provided by outside groups at no cost to us).
 
-We received an exceptional number of donations this month--from [Harley LaRoux](https://www.harleylaroux.com/), Rebecca Francis, Andrew Smart, Pauline Bariola, Laurie Feinswog, Carole Lindner, George Perantatos, Tisha Loranger, Tamara Meyer, Angharad Caceres, Denise Murdock, and Kristen Mukai, as well as four from anonymous donors (one in person and three online). Thank you all so much!
+We received an exceptional number of donations this month--from [Harley LaRoux](https://www.harleylaroux.com/), Rebecca Francis, Andrew Smart, Bill O'Connor, Pauline Bariola, Laurie Feinswog, Carole Lindner, George Perantatos, Tisha Loranger, Tamara Meyer, Angharad Caceres, Denise Murdock, and Kristen Mukai, as well as four from anonymous donors (one in person and three online). Thank you all so much!
 
 
 ### Conclusion
