@@ -37,3 +37,6 @@ We use routers that make [Wireguard](https://en.wikipedia.org/wiki/WireGuard) co
 
 * Address: 241 Martin Luther King Jr Way S, Seattle, WA 98144
 * Go-live date: October 6, 2025
+
+![Estelita's Overview Photo](Estelitas-Overview.jpg)
+![Estelita's Phone Photo](Estelitas-Phone.jpg)
