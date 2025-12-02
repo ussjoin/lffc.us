@@ -4,9 +4,9 @@ title = 'Little Free Failure of Capitalism'
 homeSubtitle = "Pithy mutual aid. Doing more than nothing."
 theme = 'hermit-v2'
 
-# [outputs]
-#   home = ['html', 'rss']
-#   page = ['html']
+[outputs]
+  home = ['html', 'rss', 'atomxml']
+  page = ['html']
 #   rss = ['rss']
 #   section = ['html', 'rss']
 #   taxonomy = ['html', 'rss']
@@ -87,8 +87,8 @@ expiryDate = ["expiryDate"]
 
   justifyContent = false
 
-  relatedPosts = true
-  code_copy_button = true
+  relatedPosts = false
+  code_copy_button = false
 
   homeSubtitlePrinter = true
   scrollToTop = true 
@@ -96,7 +96,7 @@ expiryDate = ["expiryDate"]
   readTime = true
   readTimeSeparator = "\u2026 \u23F2 Reading Time:"
   # legacyLayout = false
-  shareSocial = true
+  shareSocial = false
   # googleTagManager = "GTM-XXXXXXXX"
   # tagSymbol = "#"
   # categorySymbol = "⊲"
