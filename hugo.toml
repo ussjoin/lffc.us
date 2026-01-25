@@ -129,32 +129,28 @@ expiryDate = ["expiryDate"]
     weight = 20
     
   [[menu.main]]
+    name = "Zine"
+    url = "https://fenestrate.net/leaflets/2025/lffc/"
+    weight = 30
+    
+  [[menu.main]]
+    name = "Connections Project"
+    url = "connections/"
+    weight = 40
+    
+  [[menu.main]]
     name = "Donate"
     url = "donate/"
-    weight = 30
+    weight = 50
     
   [[menu.main]]
     name = "Suggestions"
     url = "suggestions/"
-    weight = 40
-    
+    weight = 60
+
   [[menu.main]]
     name = "Signs"
     url = "signs/"
-    weight = 50
-    
-  [[menu.main]]
-    name = "Connections"
-    url = "connections/"
-    weight = 60
-  
-  [[menu.main]]
-    name = "Call for Art"
-    url = "art/"
     weight = 70
-  
-  
-    
-  
-  
+
   
