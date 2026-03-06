@@ -6,6 +6,6 @@ draft = false
 
 The current printed materials posted at/about LFFC.
 
-* [Services Offered](Services-Offered-2025-08-05.pdf) - last revision 2025-08-05
+* [Services Offered](Services-Offered-2026-03-06.pdf) - last revision 2026-03-06
 * [Phone + WiFi](Connections-Poster-2025-10-20.pdf) - last revision 2025-10-20
 * [MiniCard](MiniCard-2024-09-23.pdf) - last revision 2024-09-23
