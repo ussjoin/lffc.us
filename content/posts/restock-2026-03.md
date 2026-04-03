@@ -14,7 +14,7 @@ Welcome to the Restock! (Slightly delayed this month, apologies.)
 
 No major changes this month. It has continued to be cold, so we haven't yet stopped putting out the winter things (gloves, hats, handwarmers), though we expect to within the next couple of weeks.
 
-Unrelated to LFFC itself: I mentioned that I'd be speaking about LFFC at Ignite Seattle in March, and [that video is now online](https://www.youtube.com/watch?v=WXBNpPX4mIk) for those who'd like to see it.
+Unrelated to LFFC itself: I mentioned that I'd be speaking about LFFC at Ignite Seattle in March, and [that video is now online](https://www.youtube.com/watch?v=WXBNpPX4mIk) for those who'd like to see it. I brought a duplicate set of LFFC's drawers and handouts so that people could see them in the lobby, and there was significant interest; I hope very much that some of the audience might start their own similar projects this year!
 
 
 ### Monthly Usage
