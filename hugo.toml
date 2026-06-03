@@ -1,5 +1,5 @@
 baseURL = 'https://lffc.us/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Little Free Failure of Capitalism'
 homeSubtitle = "Pithy mutual aid. Doing more than nothing."
 theme = 'hermit-v2'
