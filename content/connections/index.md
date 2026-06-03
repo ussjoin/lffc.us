@@ -40,3 +40,11 @@ We use routers that make [Wireguard](https://en.wikipedia.org/wiki/WireGuard) co
 
 ![Estelita's Overview Photo](Estelitas-Overview.jpg)
 ![Estelita's Phone Photo](Estelitas-Phone.jpg)
+
+### [Cafe Red](https://caferedseattle.com/)
+
+* Address: 7148 Martin Luther King Jr Way S, Seattle, WA 98118 (in back, on cul-de-sac)
+* Go-live date: May 2, 2026
+
+![Cafe Red Overview Photo](CafeRed-Overview.jpg)
+![Cafe Red Phone Photo](CafeRed-Phone.jpg)
