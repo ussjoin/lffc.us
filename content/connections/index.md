@@ -25,14 +25,6 @@ We use routers that make [Wireguard](https://en.wikipedia.org/wiki/WireGuard) co
 
 ## Sites
 
-### Dunlap Seattle Community Fridge
-
-* Address: 48th Ave S & S Thistle St, Seattle WA 98118 (in alley)
-* Go-live date: August 29, 2025
-
-![Dunlap Overview Photo](Dunlap-Overview.jpg)
-![Dunlap Phone Photo](Dunlap-Phone.jpg)
-
 ### Estelita's Library / Seattle Community Fridge
 
 * Address: 241 Martin Luther King Jr Way S, Seattle, WA 98144
@@ -48,3 +40,15 @@ We use routers that make [Wireguard](https://en.wikipedia.org/wiki/WireGuard) co
 
 ![Cafe Red Overview Photo](CafeRed-Overview.jpg)
 ![Cafe Red Phone Photo](CafeRed-Phone.jpg)
+
+## Former Sites
+
+### Dunlap Seattle Community Fridge
+
+* Address: 48th Ave S & S Thistle St, Seattle WA 98118 (in alley)
+* Go-live date: August 29, 2025
+* Closure date: July 12, 2026
+* Closure reason: SCF site closure (host moving away)
+
+![Dunlap Overview Photo](Dunlap-Overview.jpg)
+![Dunlap Phone Photo](Dunlap-Phone.jpg)
