@@ -12,7 +12,7 @@ Welcome to the Restock!
 
 ### Updates and Changes
 
-This month has been challenging. In [May](/posts/restock-2026-05/) we updated the public device charging system to a more robust one in a tamper-resistant metal box. Before doing that, people would occasionally come and sit at LFFC while their devices charged, but leave within 20-30 minutes. After the upgrade, we dramatically increased the number of people hanging out, and the average length of stay.
+This month has been challenging. In [May](/posts/restock-2026-05/), we updated the public device charging system to a more robust one in a tamper-resistant metal box. Before doing that, people would occasionally come and sit at LFFC while their devices charged, but leave within 20-30 minutes. After the upgrade, the frequency of people hanging out, and the average length of stay, increased substantially.
 
 Most of them have been lovely. A few were not:
 
@@ -20,7 +20,7 @@ Most of them have been lovely. A few were not:
 * One gentleman took the existence of a charger as permission to organize a large folding wagon of stolen merchandise, spread out across our entire driveway. When confronted and asked to desist, he accused me of "racism" for "assuming" that the merchandise was stolen, assuring me that he "had paid for all this." Mildly, the four pairs of women's leather boots (none in his size) gave me cause to doubt the veracity of his claims.
 * In the week of July 5-10 alone, there were _six_ major trashings of LFFC, scattering everything from LFFC-provided supplies to a huge number of syringes (with needles removed) around the area. The final incident involved someone removing trash from our trashcan, mixing it with new LFFC supplies and zines, and coating the lot with toothpaste, as well as squirting toothpaste all over our driveway (using between four and six tubes of toothpaste for the idle pursuit). In frustration, after the last trashing, we skipped the first night of restocking in two years: we closed LFFC entirely for the night of July 10, with signs announcing the reason. 
 
-The situation cannot continue in this manner; a change is, regrettably, thus called for. We have removed charging entirely (both USB and AC), and will not restore it, in an attempt to emphasize that LFFC is not a place to *remain*.
+The situation cannot continue in this manner; a change is, regrettably, thus called for. We have removed charging entirely (both USB and AC), and will not restore it, in an attempt to make LFFC not a place to *remain* (and then mess with out of boredom); that's our current best theory for why the long stays, and then bad behavior, shot up so rapidly in sequence.
 
 Candidly, we **hate** doing this. Removing services hurts people who use them and have come to appreciate them. Making changes or rules that hurt the majority, to curtail bad behavior by the few, is precisely the action we have sought to avoid for almost two years; unfortunately, circumstances left us with few other options, since the status quo was so untenable. The number of incidents since the change (about three weeks) has been zero, however, which is at least an initial sign that we've achieved our aim. We will continue to monitor the situation, and to think about how we can offer charging without the substantial negative side effects.
 
@@ -32,7 +32,7 @@ Finally, a new item: thanks to a bulk buy with SCF, we are distributing simple r
 
 ### Monthly Usage
 
-This month, we had 21 outgoing completed calls made from our [Futel](https://futel.net/) phone, as well as 68 and 824 calls made from our [Connections](/connections/) phones at the [Estelita's Library](https://estelitaslibrary.org/) [Seattle Community Fridge](https://seattlecommunityfridge.org/) (SCF) site, site, and [Cafe Red](https://caferedseattle.com/) site, respectively. That's more than one call every hour, all month, at Cafe Red!
+This month, we had 21 outgoing completed calls made from our [Futel](https://futel.net/) phone, as well as 68 and 824 calls made from our [Connections](/connections/) phones at the [Estelita's Library](https://estelitaslibrary.org/) [Seattle Community Fridge](https://seattlecommunityfridge.org/) (SCF) site and [Cafe Red](https://caferedseattle.com/) site, respectively. That's more than one call every hour, all month, at Cafe Red!
 
 * 291 pairs of socks
 * 1280 Band-Aids
