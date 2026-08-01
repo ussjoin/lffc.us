@@ -1,0 +1,6 @@
+{{- if (and (in .Site.Params.human "single") (ne .Type "posts")) -}}
+<div class="human single"><a href="https://zuzai.org/" target="_blank" rel="external noreferrer noopener"><abbr title="{{- if fileExists "i18n" -}} {{ i18n "humanMade" }} {{- else -}} The use of LLMs is unethical, unwelcome, and not present on this site. {{- end -}}">Zuzai</abbr></a></div>
+{{- end -}}
+{{- if (and (in .Site.Params.human "posts") (eq .Type "posts")) -}}
+<div class="human posts"><a href="https://zuzai.org/" target="_blank" rel="external noreferrer noopener"><abbr title="{{- if fileExists "i18n" -}} {{ i18n "humanMade" }} {{- else -}} The use of LLMs is unethical, unwelcome, and not present on this site. {{- end -}}">Zuzai</abbr></a></div>
+{{- end -}}
