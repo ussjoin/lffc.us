@@ -4,6 +4,8 @@ date = 2024-09-09T21:13:52-07:00
 draft = false
 +++
 
+![LFFC Overview Photo](LFFC-Overview.jpg)
+
 * [A Note on What Gets Stocked](#a-note-on-what-gets-stocked)
 * [Current Stocking](#current-stocking)
 * [Photos](#photos)
