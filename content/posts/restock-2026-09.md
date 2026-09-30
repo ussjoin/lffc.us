@@ -19,7 +19,7 @@ Not too many updates this month for the site, but we have some meta-updates that
 
 ### Monthly Usage
 
-This month, we had 48 outgoing completed calls made from our [Futel](https://futel.net/) phone, as well as 22 and 611 calls made from our [Connections](/connections/) phones at the [Estelita's Library](https://estelitaslibrary.org/) [Seattle Community Fridge](https://seattlecommunityfridge.org/) (SCF) site and [Cafe Red](https://caferedseattle.com/) site, respectively.
+This month, we had 73 outgoing completed calls made from our [Futel](https://futel.net/) phone, as well as 18 and 306 calls made from our [Connections](/connections/) phones at the [Estelita's Library](https://estelitaslibrary.org/) [Seattle Community Fridge](https://seattlecommunityfridge.org/) (SCF) site and [Cafe Red](https://caferedseattle.com/) site, respectively. The Cafe Red numbers were significantly down this month because there was a bit of damage to the phone and it took us about a week to get a replacement in place. (The damage wasn't total (well, OK, the handset was totalled, but the base wasn't), but unfortunately the jacks were destroyed and we haven't gotten the time to [The Bride](https://www.youtube.com/watch?v=IhgcUArO3Uo) the two partially-broken phones into one new and improved handset--when we do, it'll be a new spare phone!)
 
 * 300 pairs of socks
 * 1423 Band-Aids
