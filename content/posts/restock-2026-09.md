@@ -43,7 +43,7 @@ This month, we had 73 outgoing completed calls made from our [Futel](https://fut
 * 240 razors
 * 471 condoms, 20 internal ("female") condoms, and 359 lubricant packets
 * 33 boxes (66 doses) of naloxone nasal spray, and 32 kits (64 doses) of injectable naloxone
-* 7 water bottles (the tail end of the 100 water bottles [we bought as an experiment](/posts/restock-2026-07/)
+* 7 water bottles (the tail end of the 100 water bottles [we bought as an experiment](/posts/restock-2026-07/)).
 
 Our [COGGA](https://en.wikipedia.org/wiki/Cost_of_goods_sold) for this month is $942.84, not including naloxone, condoms, or lubricants (all of which are provided by outside groups at no cost to us).
 
