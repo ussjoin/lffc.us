@@ -53,7 +53,7 @@ We received donations this month from [Harley LaRoux](https://www.harleylaroux.c
 
 With two full years (Sept 1, 2024 - August 31, 2026) under our belt, here are our distribution totals (note these do not include September 2026 usage above):
 
-| | Item  | Year 1  | Year 2  | Notes  |
+| Category | Item  | Year 1  | Year 2  | Notes  |
 |---|---|---|---|---|
 | **Clothing** | Socks | 2306 | 3454 | |
 || Ponchos | 725 | 924 | |
