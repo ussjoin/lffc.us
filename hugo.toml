@@ -149,8 +149,13 @@ expiryDate = ["expiryDate"]
     weight = 60
 
   [[menu.main]]
+    name = "Comments"
+    url = "comments/"
+    weight = 70
+
+  [[menu.main]]
     name = "Signs"
     url = "signs/"
-    weight = 70
+    weight = 80
 
   
