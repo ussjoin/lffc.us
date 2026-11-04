@@ -22,13 +22,13 @@ To avoid this page being catastrophically humongous (since we don't use JavaScri
 
 * October 2026
   * ["Thank you for doing this! I live in the neighborhood. Please let me know if you need any donations or help."](2026-10/0000-edited.png)
-  * !["Saying goodbye - Thank you so much for all you do. I have to thank you for making my life much more comfortable thru all the shit I put myself thru. You have probably (unclear) thousands + not (unclear) known it. We kill ourselves with dope + some actually technically do. But today I'm using this or another nearby free phone to go home... or to the home of my brother or other family member. I can't be out here on dope anymore. I'm going to try to get my life back. Just wanted to thank you guys. God bless you."](2026-10/0001-edited.png)
+  * !["Saying goodbye - Thank you so much for all you do. I have to thank you for making my life much more comfortable thru all the shit I put myself thru. You have probably saved thousands + not even known it. We kill ourselves with dope + some actually technically do. But today I'm using this or another nearby free phone to go home... or to the home of my brother or other family member. I can't be out here on dope anymore. I'm going to try to get my life back. Just wanted to thank you guys. God bless you."](2026-10/0001-edited.png)
 * September 2026
   * ["Thank you so much. I wish you knew just how helpful you are & the influence you have on those who feel most hopeless. Thanks again"](2026-09/0000-edited.png)
   * ["Don't touch yourself at night. do it in the morning please and use K&Y jelly watermelon or unscent. grassy ass"](2026-09/0001.png)
   * ["nothing"](2026-09/0002.png)
   * ["If there's a chance I'm (redacted) I need a phone I will check tomorrow if I can to see any options mine was stolen Thank you"](2026-09/0003-edited.png)
-  * ["Love you guys. Thanks for everything - also I would love to see more (unclear)"](2026-09/0004.png)
+  * ["Love you guys. Thanks for everything - also I would love to see more drink mixes"](2026-09/0004.png)
   * ["I don't have a phone but please some food, H2O & hydration packets, neosporin, jobs available long term, short term... " (unclear)](2026-09/0005-edited.png)
   * ["I appreciate the charging station for a convenient place to charge and go. Thank community."](2026-09/0006.png)
   * ["Thank you for being help and to be help."](2026-09/0007.png)
@@ -66,7 +66,7 @@ To avoid this page being catastrophically humongous (since we don't use JavaScri
   * ["Emergency blankets"](2026-01/0045.png)
   * ["Thank you for everything. Need some underwear thank you."](2026-01/0047.png)
   * ["Thank you"](2026-01/0046.png)
-  * ["Thank you for doing this it's good to know that someone (unclear)"](2026-01/0042.png)
+  * ["Thank you for doing this it's good to know that some people out there really care"](2026-01/0042.png)
   * ["Who lost their phones I'm fixing them"](2026-01/0043.png)
 * December 2025
   * ["Thank you for your help! We appreciate this and would love to donate items"](2025-12/0039.png)
@@ -100,7 +100,7 @@ To avoid this page being catastrophically humongous (since we don't use JavaScri
   * ["Very cool work - keep it up!"](2025-05/0002.png)
   * ["You guys are doing a wonderful thing for the homeless community & are much appreciated. Thanks"](2025-05/0026-edited.png)
   * ["Thank you end 1 4 school ed psy testing Just wanted to say thank you. It's nice to see that people really care for those of us who are truly struggling. May God forgive you all of your sins + grant you the highest station in paradise! Amen."](2025-05/0030-edited.png)
-  * ["Art book or ..." (unclear)](2025-05/0024.png)
+  * ["Art book or sketch pad, and thank you for all this. It is great to know people out there that give a damn. Thank you"](2025-05/0024.png)
   * ["Add oot 4 USB conect plugin please thank u"](2025-05/0018.png)
   * ["This is great. Recommendation would be a venmo code or means to donate. As well as wish list!"](2025-05/0025.png)
   * ["It would be really cool if you guys could provide; hand sanitizer or rubbing alcohol (preferably 91% proof) to burn for heat. It doesn't produce any smoke so they are both really perfect things to use in a RV or tent or tarp structure. Also I know it might be asking a little too much since you already do sooo much for us and I'm sure you rarely get thanked for it (THANK YOU BTW) but fully charged portable" (cont)](2025-05/0031.png)
